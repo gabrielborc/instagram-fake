@@ -1,0 +1,51 @@
+{
+    "feed": [
+        {
+            "id": 1,
+            "image": "https://i.pinimg.com/originals/26/ea/fc/26eafc0b14488fea03fa8fa9751203ff.jpg",
+            "description": "Are you working for your dreams?",
+            "authorId": 1
+        },
+        {
+            "id": 2,
+            "image": "https://www.timeshighereducation.com/sites/default/files/styles/the_breaking_news_image_style/public/istock-473089840.jpg",
+            "description": "Are you working for your dreams?",
+            "authorId": 2
+        },
+        {
+            "id": 3,
+            "image": "https://blog.goway.com/globetrotting/wp-content/uploads/2017/06/Aerial-view-of-Paulista-Avenue-in-Sao-Paulo-Brazil_583635313.jpg",
+            "description": "Are you working for your dreams?",
+            "authorId": 3
+        },
+        {
+            "id": 4,
+            "image": "https://abrilviagemeturismo.files.wordpress.com/2017/12/istock-842960000.jpg",
+            "description": "Are you working for your dreams?",
+            "authorId": 4
+        }
+    ],
+    "authors": [
+        {
+            "id": 1,
+            "name": "jr_acn",
+            "avatar": "https://avatars0.githubusercontent.com/u/6952134?s=50"
+        },
+        {
+            "id": 2,
+            "name": "gabrielborc",
+            "avatar": "https://avatars0.githubusercontent.com/u/8750531?s=50"
+        },
+        {
+            "id": 3,
+            "name": "fernandohfs",
+            "avatar": "https://avatars0.githubusercontent.com/u/9155700?s=50"
+        },
+        {
+            "id": 4,
+            "name": "murilo-scapim",
+            "avatar": "https://avatars0.githubusercontent.com/u/9178386?s=50"
+        }
+    ]
+}
+
