@@ -1,8 +1,6 @@
 # Instagram Fake
 [Versão com TypeScript]
 
-Aplicativo que compara qual o melhor custo benefico enter os combustiveos de etanol e gasolina
-
 ![screenshot-app](./assets/screenshot.png)
 
 ## Conteúdo
